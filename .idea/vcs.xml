@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="E:\PROJECT\YUXH3\project\mouldUtil\mouldDemo" vcs="Git" />
     <mapping directory="E:\PROJECT\YUXH3\project\mouldUtil\mouldutil" vcs="Git" />
     <mapping directory="E:\PROJECT\YUXH3\project\mouldUtil\utils" vcs="Git" />
